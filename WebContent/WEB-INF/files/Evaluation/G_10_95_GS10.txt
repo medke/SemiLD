@@ -1,0 +1,122 @@
+--->UsingC:\Users\MSK137\workspace\SemiLD-Servlet\WebContent\WEB-INF\files\Global-P-10.xml
+N of Datasets DBpedia==> 10
+Number of Properties= 218
+      ----------------------
+country <=>country
+wiki Page External Link <=>wiki Page External Link
+owl same As <=>owl same As
+point <=>point
+postal Code <=>postal Code
+wiki Page Revision ID <=>wiki Page Revision ID
+wgs   pos long <=>wgs pos long
+prov was Derived From <=>prov was Derived From
+wiki Page ID <=>wiki Page ID
+area Code <=>area Code
+wiki Page Wiki Link <=>wiki Page Wiki Link
+wgs   pos lat <=>wgs pos lat
+depiction <=>depiction
+thumbnail <=>thumbnail
+rdf schema comment <=>rdf schema comment
+rdf schema label <=>rdf schema label
+name <=>name
+region <=>area Total
+   rdf syntax ns type <=>rdf syntax ns type
+number of NON-MATCHES= 29
+distance To Charing Cross !!3
+opening Year !!1
+route Number !!2
+subject !!10
+route End !!3
+architect !!3
+opening Date !!1
+borough !!1
+floor Count !!1
+type !!1
+crosses !!1
+award !!1
+is Primary Topic Of !!10
+vehicles Per Day !!1
+route Type Abbreviation !!2
+number Of Piers In Water !!1
+height !!1
+owner !!1
+address !!1
+grid Reference !!3
+length !!4
+located In Area !!1
+number Of Spans !!1
+route End Direction !!2
+route Start Direction !!2
+bridge Carries !!1
+route Start !!3
+width !!1
+location !!4
+      ----------------------
+N of Datasets LinkedGeoData==> 20
+Number of Properties= 395
+      ----------------------
+source <=>source
+created By <=>created By
+changeset <=>changeset
+contributor <=>contributor
+modified <=>modified
+version <=>version
+is in country <=>country
+number of NON-MATCHES= 16
+note !!7
+capital !!7
+ref nswgnb !!2
+is In !!7
+source date !!1
+is in collectivit   !!1
+admin level !!7
+rank !!7
+wikipedia !!7
+place nswgnb !!2
+is in territoire !!1
+source ref !!1
+is in continent !!7
+population !!7
+attribution !!1
+geometry geometry !!10
+      ----------------------
+N of Datasets Geonames==> 21
+Number of Properties= 410
+      ----------------------
+lng <=>lng
+fcl <=>fcl
+country Code <=>country Code
+geoname Id <=>geoname Id
+name <=>name
+lat <=>lat
+fcode <=>fcode
+number of NON-MATCHES= 7
+country Name !!1
+admin Name !!1
+toponym Name !!1
+admin Code !!1
+fcl Name !!1
+fcode Name !!1
+country Id !!1
+      ----------------------
+N of Datasets GoogleMap==> 22
+Number of Properties= 419
+      ----------------------
+formatted address <=>formatted address
+icon <=>icon
+photos <=>photos
+place id <=>place id
+number of NON-MATCHES= 4
+reference !!1
+types !!1
+geometry !!1
+id !!1
+      ----------------------
+N of Datasets==> 22
+{"totalResultsCount":6721,"geonames":[{"adminCode1":"ENG","lng":"-0.12574","geonameId":2643743,"toponymName":"London","countryId":"2635167","fcl":"P","population":7556900,"countryCode":"GB","name":"London","fclName":"city, village,...","countryName":"United Kingdom","fcodeName":"capital of a political entity","adminName1":"England","lat":"51.50853","fcode":"PPLC"},{"adminCode1":"08","lng":"-81.23304","geonameId":6058560,"toponymName":"London","countryId":"6251999","fcl":"P","population":346765,"countryCode":"CA","name":"London","fclName":"city, village,...","countryName":"Canada","fcodeName":"populated place","adminName1":"Ontario","lat":"42.98339","fcode":"PPL"}]}
+DBpedia - Rertrieving Places
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-
+LGD-Rertrieving Places
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-

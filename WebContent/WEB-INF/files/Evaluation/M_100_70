@@ -1,0 +1,106 @@
+****************************
+Number of Properties= 3744 => 4004 => 5204
+NON-MATCHES= 822
+Recall=0.86
+Precision=
+
+********************************
+
+N of Datasets DBpedia==> 100
+Number of Properties= 1985
+      ----------------------
+country <=>country
+musicComposer <=>musicComposer
+releaseDate <=>releasedate
+subject <=>filmsubject
+subject <=>coresubject
+wikiPageExternalLink <=>wikiPageExternalLink
+owlsameAs <=>owlsameAs
+cinematography <=>cinematography
+wikiPageRevisionID <=>wikiPageRevisionID
+provwasDerivedFrom <=>provwasDerivedFrom
+wikiPageID <=>wikiPageID
+wikiPageWikiLink <=>wikiPageWikiLink
+depiction <=>depiction
+budget <=>budget
+basedOn <=>basedOn
+thumbnail <=>thumbnail
+gross <=>gross
+director <=>director
+runtime <=>runtime
+distributor <=>distributor
+editing <=>editing
+narrator <=>narrator
+name <=>name
+starring <=>starring
+producer <=>producer
+writer <=>writer
+homepage <=>homepage
+number of NON-MATCHES= 5
+language !!22
+isPrimaryTopicOf !!100
+      ----------------------
+N of Datasets LMDB==> 200
+Number of Properties= 3414
+      ----------------------
+date <=>releasedate
+relatedBook <=>relatedBook
+coresubject <=>coresubject
+filmcastingdirector <=>director
+rating <=>rating
+cinematographer <=>cinematographer
+productioncompany <=>productioncompany
+filmid <=>filmid
+genre <=>genre
+filmcut <=>filmcut
+filmcollection <=>filmcollection
+sequel <=>sequel
+filmartdirector <=>director
+hasPhotoCollection <=>hasPhotoCollection
+filmsubject <=>filmsubject
+editor <=>editor
+initialreleasedate <=>initialreleasedate
+storycontributor <=>storycontributor
+musiccontributor <=>musiccontributor
+prequel <=>prequel
+executiveproducer <=>producer
+basednear <=>basednear
+actor <=>actor
+featuredfilmlocation <=>featuredfilmlocation
+location <=>location
+page <=>page
+personalfilmappearance <=>personalfilmappearance
+filmstorycontributor <=>filmstorycontributor
+number of NON-MATCHES= 2
+title !!100
+      ----------------------
+N of Datasets IMDB==> 210
+Number of Properties= 3464 => 4004
+      ----------------------
+Type <=>Type
+Year <=>Year
+imdbID <=>imdbID
+Poster <=>Poster
+number of NON-MATCHES= 1
+Title !!100
+      ----------------------
+N of Datasets TMDB==> 230
+Number of Properties= 3744 => 4004 => 5204
+      ----------------------
+overview <=>overview
+video <=>video
+genreids <=>genreids
+posterpath <=>posterpath
+backdroppath <=>backdroppath
+releasedate <=>releasedate
+popularity <=>popularity
+voteaverage <=>voteaverage
+id <=>id
+adult <=>adult
+votecount <=>votecount
+number of NON-MATCHES= 3
+originallanguage !!100
+originaltitle !!100
+title !!100
+      ----------------------
+N of Datasets==> 230 then => 400

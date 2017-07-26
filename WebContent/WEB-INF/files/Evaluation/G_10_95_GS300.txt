@@ -1,0 +1,40 @@
+--->UsingC:\Users\MSK137\workspace\SemiLD-Servlet\WebContent\WEB-INF\files\Global-P-300.xml
+N of Datasets DBpedia==> 10
+Number of Properties= 218
+      ----------------------
+country <=>is in state
+country <=>is in country
+distance To Charing Cross <=>distance To Charing Cross
+opening Year <=>opening Year
+route Number <=>route Number
+route End <=>route End
+architect <=>architect
+opening Date <=>opening Date
+wiki Page External Link <=>wiki Page External Link
+floor Count <=>floor Count
+type <=>types
+owl same As <=>owl same As
+crosses <=>crosses
+postal Code <=>postal Code
+wiki Page Revision ID <=>wiki Page Revision ID
+wgs   pos long <=>wgs pos long
+prov was Derived From <=>prov was Derived From
+award <=>award
+wiki Page ID <=>wiki Page ID
+area Code <=>area Code
+vehicles Per Day <=>vehicles Per Day
+route Type Abbreviation <=>route Type Abbreviation
+number Of Piers In Water <=>number Of Piers In Water
+wiki Page Wiki Link <=>wiki Page Wiki Link
+wgs   pos lat <=>wgs pos lat
+depiction <=>depiction
+height <=>height
+owner <=>owner
+thumbnail <=>thumbnail
+rdf schema comment <=>rdf schema comment
+number Of Spans <=>number Of Spans
+route End Direction <=>route End Direction
+route Start Direction <=>route Start Direction
+bridge Carries <=>bridge Carries
+rdf schema label <=>rdf schema label
+route Start <=>route Start

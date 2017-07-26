@@ -1,0 +1,132 @@
+--->UsingC:\Users\MSK137\workspace\SemiLD-Servlet\WebContent\WEB-INF\files\Global-P-100.xml
+N of Datasets DBpedia==> 10
+Number of Properties= 218
+      ----------------------
+country <=>is in region
+country <=>is in country
+country <=>is in state
+distance To Charing Cross <=>distance To Charing Cross
+opening Year <=>opening Year
+opening Year <=>closing Year
+opening Year <=>active Years Start Year
+route Number <=>route Number
+route End <=>route End
+architect <=>architect
+opening Date <=>opening Date
+wiki Page External Link <=>wiki Page External Link
+borough <=>borough
+floor Count <=>floor Count
+type <=>types
+owl same As <=>owl same As
+crosses <=>crosses
+point <=>point
+postal Code <=>postal Code
+wiki Page Revision ID <=>wiki Page ID
+wiki Page Revision ID <=>wiki Page Revision ID
+wgs   pos long <=>wgs pos long
+prov was Derived From <=>prov was Derived From
+award <=>award
+wiki Page ID <=>wiki Page ID
+wiki Page ID <=>wiki Page Revision ID
+area Code <=>area Code
+vehicles Per Day <=>vehicles Per Day
+route Type Abbreviation <=>route Type Abbreviation
+number Of Piers In Water <=>number Of Piers In Water
+wiki Page Wiki Link <=>wiki Page Wiki Link
+wgs   pos lat <=>wgs pos lat
+depiction <=>depiction
+height <=>height
+owner <=>owner
+thumbnail <=>thumbnail
+rdf schema comment <=>rdf schema comment
+located In Area <=>is in region
+number Of Spans <=>number Of Spans
+route End Direction <=>route End Direction
+route Start Direction <=>route Start Direction
+bridge Carries <=>bridge Carries
+rdf schema label <=>rdf schema label
+route Start <=>route Start
+width <=>width
+region <=>is in region
+region <=>is in country
+   rdf syntax ns type <=>rdf syntax ns type
+number of NON-MATCHES= 7
+subject !!10
+is Primary Topic Of !!10
+address !!1
+grid Reference !!3
+length !!4
+name !!8
+location !!4
+      ----------------------
+N of Datasets LinkedGeoData==> 20
+Number of Properties= 395
+      ----------------------
+note <=>note
+capital <=>capital
+ref nswgnb <=>ref nswgnb
+created By <=>created By
+changeset <=>changeset
+contributor <=>contributor
+admin level <=>admin level
+rank <=>rank
+modified <=>modified
+wikipedia <=>wikipedia
+place nswgnb <=>place nswgnb
+is in territoire <=>is in territoire
+source ref <=>source ref
+is in continent <=>is in continent
+attribution <=>attribution
+is in country <=>is in region
+is in country <=>is in country
+is in country <=>is in state
+number of NON-MATCHES= 7
+is In !!7
+source !!3
+source date !!1
+is in collectivit   !!1
+version !!10
+population !!7
+geometry geometry !!10
+      ----------------------
+N of Datasets Geonames==> 21
+Number of Properties= 410
+      ----------------------
+lng <=>lng
+country Name <=>is in country
+fcl <=>fcl
+country Code <=>is in state code
+country Code <=>country Code
+geoname Id <=>geoname Id
+admin Code <=>admin Code
+fcode <=>fcode
+number of NON-MATCHES= 7
+admin Name !!1
+toponym Name !!1
+fcl Name !!1
+fcode Name !!1
+name !!1
+country Id !!1
+lat !!1
+      ----------------------
+N of Datasets GoogleMap==> 22
+Number of Properties= 419
+      ----------------------
+types <=>types
+icon <=>icon
+photos <=>photos
+place id <=>place id
+number of NON-MATCHES= 4
+reference !!1
+formatted address !!1
+geometry !!1
+id !!1
+      ----------------------
+N of Datasets==> 22
+{"totalResultsCount":6721,"geonames":[{"adminCode1":"ENG","lng":"-0.12574","geonameId":2643743,"toponymName":"London","countryId":"2635167","fcl":"P","population":7556900,"countryCode":"GB","name":"London","fclName":"city, village,...","countryName":"United Kingdom","fcodeName":"capital of a political entity","adminName1":"England","lat":"51.50853","fcode":"PPLC"},{"adminCode1":"08","lng":"-81.23304","geonameId":6058560,"toponymName":"London","countryId":"6251999","fcl":"P","population":346765,"countryCode":"CA","name":"London","fclName":"city, village,...","countryName":"Canada","fcodeName":"populated place","adminName1":"Ontario","lat":"42.98339","fcode":"PPL"}]}
+DBpedia - Rertrieving Places
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-
+LGD-Rertrieving Places
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-

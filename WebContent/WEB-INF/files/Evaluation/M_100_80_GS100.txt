@@ -1,0 +1,107 @@
+--->UsingC:\Users\MSK137\workspace\SemiLD-Servlet\WebContent\WEB-INF\files\Global-100.xml
+N of Datasets DBpedia==> 100
+Number of Properties= 1985
+      ----------------------
+country <=>country
+musicComposer <=>musicComposer
+releaseDate <=>releasedate
+wikiPageExternalLink <=>wikiPageExternalLink
+owlsameAs <=>owlsameAs
+cinematography <=>cinematography
+wikiPageRevisionID <=>wikiPageRevisionID
+provwasDerivedFrom <=>provwasDerivedFrom
+wikiPageID <=>wikiPageID
+wikiPageWikiLink <=>wikiPageWikiLink
+depiction <=>depiction
+budget <=>budget
+basedOn <=>basedOn
+thumbnail <=>thumbnail
+gross <=>gross
+director <=>director
+runtime <=>runtime
+distributor <=>distributor
+editing <=>editing
+narrator <=>narrator
+name <=>name
+starring <=>starring
+producer <=>producer
+writer <=>writer
+homepage <=>homepage
+number of NON-MATCHES= 6
+subject !!100
+language !!22
+isPrimaryTopicOf !!100
+rdfschemacomment !!100
+rdfschemalabel !!100
+rdfsyntaxnstype !!100
+      ----------------------
+N of Datasets LMDB==> 200
+Number of Properties= 3414
+      ----------------------
+relatedBook <=>relatedBook
+coresubject <=>coresubject
+rating <=>rating
+cinematographer <=>cinematographer
+productioncompany <=>productioncompany
+filmid <=>filmid
+genre <=>genre
+filmcut <=>filmcut
+filmcollection <=>filmcollection
+sequel <=>sequel
+hasPhotoCollection <=>hasPhotoCollection
+filmsubject <=>filmsubject
+editor <=>editor
+initialreleasedate <=>initialreleasedate
+storycontributor <=>storycontributor
+musiccontributor <=>musiccontributor
+prequel <=>prequel
+executiveproducer <=>producer
+basednear <=>basednear
+actor <=>actor
+featuredfilmlocation <=>featuredfilmlocation
+performance <=>performance
+location <=>location
+page <=>page
+personalfilmappearance <=>personalfilmappearance
+filmstorycontributor <=>filmstorycontributor
+number of NON-MATCHES= 4
+date !!52
+filmcastingdirector !!1
+title !!100
+filmartdirector !!4
+      ----------------------
+N of Datasets IMDB==> 210
+Number of Properties= 3464
+      ----------------------
+Type <=>Type
+Year <=>Year
+imdbID <=>imdbID
+Poster <=>Poster
+number of NON-MATCHES= 1
+Title !!10
+      ----------------------
+N of Datasets TMDB==> 230
+Number of Properties= 3744
+      ----------------------
+overview <=>overview
+video <=>video
+genreids <=>genreids
+posterpath <=>posterpath
+backdroppath <=>backdroppath
+releasedate <=>releasedate
+popularity <=>popularity
+voteaverage <=>voteaverage
+id <=>id
+adult <=>adult
+votecount <=>votecount
+number of NON-MATCHES= 3
+originallanguage !!20
+originaltitle !!20
+title !!20
+      ----------------------
+N of Datasets==> 230
+PREFIX mdb: <http://data.linkedmdb.org/resource/movie/film> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dc: <http://purl.org/dc/terms/>   PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT ?s WHERE {   ?s rdf:type mdb: .    ?s dc:title ?l .    FILTER regex(?l,'The')} limit 100
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-72-73-74-75-76-77-78-79-80-81-82-83-84-85-86-87-88-89-90-91-92-93-94-95-96-97-98-99-Rertrieving Movies
+Rertrieving Properties
+0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-72-73-74-75-76-77-78-79-80-81-82-83-84-85-86-87-88-89-90-91-92-93-94-95-96-97-98-99-

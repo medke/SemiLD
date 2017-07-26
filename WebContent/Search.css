@@ -1,0 +1,169 @@
+body {
+   margin-left: auto;
+   margin-right: auto;
+  width: 90%;
+}
+.search-form{
+   margin-left: auto;
+   margin-right: auto;
+  width:420px;
+  
+}
+li{
+	    list-style-type: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.candidate {
+  border: 1px solid #e0e1e3;
+  border-radius: 4px;
+  padding: 30px;
+  position: relative;
+  
+  strong {
+    font-weight: 500
+  }
+}
+
+.candidate__badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-weight: normal;   
+  padding: 5px 10px;
+  background: #ffb164
+}
+
+.candidate__header {
+  border-bottom: 1px solid #e0e1e3;
+  padding-bottom: 60px;
+}
+
+.candidate__img {
+  width: 50px;
+  height: 50px;
+  float: left;
+  border-radius: 50%;
+}
+
+.candidate__details {
+  float: left;
+  margin-left: 20px;
+}
+
+.candidate__fullname {
+  font-size: 1.2em;
+  margin: 5px 0 0;
+  padding: 0;
+}
+
+.candidate__location {
+  font-size: 0.9em;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  color: #666;
+}
+.candidate__years {
+  color: #999;
+  display: block
+}
+
+@media (min-width: 524px) {
+  .candidate__years {
+    display: inline-block;
+    width: 150px;
+  }
+  .candidate__badge {
+    top: 30px;
+    right: 30px;
+  }
+}
+.search-term {
+  width: 100%;
+  margin: 0 0 5px 0;
+  
+}
+.search-terms {
+  display: table;
+  margin: 0 0 10px 0;
+  
+}
+.search-term-wrap label
+{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 90px;
+    text-align: left;
+  
+}
+.search-terms select
+{
+  width:140px;
+  
+}
+button{
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+button.active, button:hover {
+    background-color: #ddd;
+}
+div.moreInfo {
+    background-color: white;
+    display: none;
+}
+.candidate__title
+{
+	width: 80%;
+    margin-left: 15%;
+    margin-right: 1%;
+    display: inline;
+}
+.accordion
+{
+	width: 60px;
+	margin: auto;
+		-webkit-filter: invert(0%)
+}
+.accordion.active
+{
+	width: 60px;
+	margin: auto;
+	-webkit-filter: invert(100%)
+}
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+.map
+{
+
+	display:none;
+	
+}
+.showMap
+{
+	width 180px;
+	margin: auto;
+}
